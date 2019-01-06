@@ -20,12 +20,6 @@ Complete these exercises in `Methods.java`
 
 #### 1. Calculate Square
 
-Write a method called `calculateSquare` that takes an int as a parameter and returns the square of that integer.
-
-```
-ex: calculateSquare(2) returns 4
-    calculateSquare(3) returns 9
-    calculateSquare(4) returns 16
 ```
 
 [How to calculate a square](http://www.mathsisfun.com/square-root.html)
